@@ -1,0 +1,27 @@
+[project]
+name = "python-docker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "django>=5.2.1",
+    "django-cors-headers>=4.7.0",
+    "django-htmx>=1.23.0",
+    "djangorestframework>=3.16.0",
+    "google-api-python-client>=2.169.0",
+    "google-auth>=2.40.2",
+    "google-auth-oauthlib>=1.2.2",
+    "python-decouple>=3.8",
+    "python-dotenv>=1.1.0",
+    "python3-discogs-client>=2.8",
+    "requests>=2.32.3",
+    "psycopg2>=2.9.10",
+    "django-tailwind>=4.0.1",
+    "django-browser-reload>=1.18.0",
+    "psycopg2-binary>=2.9.10",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "joblib>=1.5.1",
+]

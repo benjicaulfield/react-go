@@ -1,0 +1,46 @@
+# Node.js / React
+node_modules/
+*.log
+npm-debug.log
+.DS_Store
+frontend/dist/
+frontend/build/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+go-backend/bin/
+go-backend/*.test
+go-backend/go.sum
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+*.egg-info/
+.installed.cfg
+*.egg
+python-services/venv/
+
+# General
+.env
+*.swp
+*~
+.DS_Store
+.idea/
+.vscode/
+*.bak
+tmp/
+
+# Project-specific
+slow_preedit.zip
+zip.txt
+user_inventories.json
+fixtures/

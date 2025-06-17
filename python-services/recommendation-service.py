@@ -112,7 +112,7 @@ def thermodynamic_selection():
         logger.info(f"Performing thermodynamic selection (force_refresh: {force_refresh})")
         
         # Simulate thermodynamic computation
-        time.sleep(0.8)  # Simulate computation time
+        # time.sleep(0.8)  # Removed to reduce delay for testing
         
         # Simulate thermodynamic selection results
         listing_id = random.randint(1, 1000)

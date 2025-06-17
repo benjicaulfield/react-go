@@ -1,8 +1,0 @@
-*
-!**/*.py
-!requirements.txt
-!run_tests.sh
-!**/templates/
-!discogs/templates/**
-!theme
-!updated_data.json

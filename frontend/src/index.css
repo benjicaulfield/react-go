@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: ui-monospace, SFMono-Regular, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #000000;
+  color: #d1d5db;
+  font-size: 1.125rem;
+}
+
+.metric-card {
+  @apply bg-gray-800 p-4 rounded-lg border border-gray-700;
+}
+
+.metric-card h3 {
+  @apply text-gray-300 text-sm font-bold mb-2;
+}
+
+.metric-card p {
+  @apply text-white text-2xl font-mono;
+}
+
+.rating-label input[type="radio"]:checked + span {
+  @apply bg-blue-600 border-blue-500;
+}
+
+.rating-label:hover span {
+  @apply bg-gray-800;
+}

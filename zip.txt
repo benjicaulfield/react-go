@@ -1,0 +1,1 @@
+zip -r preprompt_codebase_$(date +%s).zip . -x "*.git*" "*__pycache__*" "*.DS_Store" "*node_modules*" "*.pyc" "*venv*" "*.log" "*.zip" "*dist"

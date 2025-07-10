@@ -1,0 +1,1 @@
+zip -r slow_preedit.zip . -x "*.git*" "*__pycache__*" "*.DS_Store" "*node_modules*" "*.pyc" "*venv*" "*env*" "*.log" "*.zip" "*dist"

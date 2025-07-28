@@ -1,0 +1,6 @@
+{% for listing, pred, prob in predictions %}
+<tr id="listing-{{ listing.id }}">
+    <!-- Update row with prediction, e.g., add a column or highlight -->
+    <td colspan="100">Predicted: {% if pred %}Keeper ({{ prob|floatformat:2 }}%) {% else %}Loser{% endif %}</td>
+</tr>
+{% endfor %}

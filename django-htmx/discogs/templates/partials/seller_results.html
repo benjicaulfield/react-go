@@ -1,0 +1,35 @@
+{% if error %}
+    <p class="text-red-600">{{ error }}</p>
+{% else %}
+    <table class="min-w-full divide-y divide-gray-200">
+        <thead class="bg-gray-50">
+            <tr>
+                {% for header in "Record Title,Artist,Format,Label,Price,Condition,Year".split(',') %}
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">{{ header }}</th>
+                {% endfor %}
+            </tr>
+        </thead>
+        <tbody class="bg-white divide-y divide-gray-200">
+            {% for listing in listings %}
+            <tr class="px-6 py-4 whitespace-nowrap">
+                <td>
+                    <button hx-post="{% url 'add-to-wantlist' %}"
+                    hx-trigger="click"
+                    hx-target="#wantlist-message"
+                    hx-vals='{"record_id": "{{ listing.record.id }}"}'
+                    class="bg-green-500 text-white px-3 py-1 rounded hover:bg-green-600">
+                Wantlist>
+                    </button>
+                </td>
+                <td>{{ listing.record.title }}</td>
+                <td>{{ listing.record.artist }}</td>
+                <td>{{ listing.record.format }}</td>
+                <td>{{ listing.record.label }}</td>
+                <td>${{ listing.record_price|floatformat:2 }}</td>
+                <td>{{ listing.media_condition }}</td>
+                <td>{{ listing.record.year }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endif %}

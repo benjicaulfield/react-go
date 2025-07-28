@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}By Seller{% endblock %}
+{% block content %}
+
+<div class="max-w-7xl mx-auto p-5">
+  <h1 class="text-3xl text-white mb-5">By Seller</h1>
+
+  <form hx-post="{% url 'search-seller' %}"
+        hx-trigger="submit"
+        hx-target="#seller-results">
+      {% csrf_token %}
+      <input type="text" 
+             name="seller" 
+             placeholder="Enter seller name"
+             class="px-4 py-2 border rounded mr-2 bg-gray-800 text-white border-gray-700">
+      <button type="submit" 
+              class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">
+          Search
+      </button>
+  </form>
+
+  <div id="seller-results">
+      <p class="text-gray-300">Enter a seller name to search for listings</p>
+  </div>
+</div>
+
+{% endblock %}

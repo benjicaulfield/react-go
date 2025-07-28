@@ -1,0 +1,5782 @@
+[
+  {
+    "title": "BRIAN ENO-DAVID BYRNE My Life In The Bush Of Ghosts 1981 SIRE LP VG/EX",
+    "tokens": [
+      {
+        "word": "BRIAN",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "ENO-DAVID",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "BYRNE",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "My",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Life",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "In",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "The",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Bush",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Of",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Ghosts",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "1981",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "SIRE",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VG/EX",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "MOURN -s/t FIRST PRESS CLEAR DLP 2007 LIM 100 DIE HARD doom stoner",
+    "tokens": [
+      {
+        "word": "MOURN",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "-s/t",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "FIRST",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "PRESS",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "CLEAR",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "DLP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "2007",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LIM",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "100",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "DIE",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "HARD",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "doom",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "stoner",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Brian Tyler - Scream: Music from the Motion Picture, Sealed",
+    "tokens": [
+      {
+        "word": "Brian",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Tyler",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Scream:",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Music",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "from",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "the",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Motion",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Picture,",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Sealed",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Motorhead - What's Words Worth? - 1979 Vinyl LP - Motörhead Live 1978",
+    "tokens": [
+      {
+        "word": "Motorhead",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "What's",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Words",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Worth?",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1979",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Motörhead",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Live",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1978",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "BUDDY SPICHER Yesterday And Today 1977 Direct Disk AUDIOPHILE Vinyl BLUEGRASS EX",
+    "tokens": [
+      {
+        "word": "BUDDY",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "SPICHER",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Yesterday",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "And",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Today",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "1977",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Direct",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Disk",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "AUDIOPHILE",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "BLUEGRASS",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "EX",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Motorhead - On Parole - 1979 Vinyl LP - LN 10340 - Motörhead",
+    "tokens": [
+      {
+        "word": "Motorhead",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "On",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Parole",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1979",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LN",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "10340",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Motörhead",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Quincy Jones - Body Heat, 1 LP, 180G, Reissue, Sealed",
+    "tokens": [
+      {
+        "word": "Quincy",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Jones",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Body",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Heat,",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "1",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP,",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "180G,",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Reissue,",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Sealed",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "BLUES Sugar Chile Robinson Whop Whop / Hum Drum Boogie Capitol F2197 1952 NM",
+    "tokens": [
+      {
+        "word": "BLUES",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Sugar",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Chile",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Robinson",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Whop",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Whop",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "/",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Hum",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Drum",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Boogie",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Capitol",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "F2197",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "1952",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "NM",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Beatles’ Story LP 1970 Apple UNDOCUMENTED 3 Sides with “Mfd. By Apple, Inc.” EX!",
+    "tokens": [
+      {
+        "word": "Beatles’",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Story",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1970",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Apple",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "UNDOCUMENTED",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "3",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "Sides",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "with",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "“Mfd.",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "By",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "Apple,",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "Inc.”",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "EX!",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Near Mint in SHRINK! Sparks – Kimono My House - 1974 Island Records – ILPS 9272 ",
+    "tokens": [
+      {
+        "word": "Near",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Mint",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "in",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "SHRINK!",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Sparks",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "–",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Kimono",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "My",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "House",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1974",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Island",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Records",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "–",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "ILPS",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "9272",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Rezillos - Mission Accomplished... But The Beat Goes On - 1979 Vinyl LP",
+    "tokens": [
+      {
+        "word": "Rezillos",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Mission",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Accomplished...",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "But",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "The",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Beat",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Goes",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "On",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1979",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "OPUS 3 7911 PEORIA JAZZBAND New Sides 1979 Audiophile LP Superb NMINT",
+    "tokens": [
+      {
+        "word": "OPUS",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "3",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "7911",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "PEORIA",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "JAZZBAND",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "New",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Sides",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1979",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Audiophile",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Superb",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "NMINT",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Black Eagle Jazz Band: Dreaming the Hours Away LP [Stomp Off  1984] SOS 1065 LP",
+    "tokens": [
+      {
+        "word": "Black",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Eagle",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Jazz",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Band:",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Dreaming",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "the",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Hours",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Away",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "[Stomp",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Off",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "1984]",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "SOS",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "1065",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "TIMECOP1983 - Reflections Double Vinyl LP (A) Synthwave Timeslave Recordings",
+    "tokens": [
+      {
+        "word": "TIMECOP1983",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Reflections",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Double",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "(A)",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Synthwave",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Timeslave",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Recordings",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Eddie & The Hot Rods - Teenage Depression - ILPS 9457 - 1977 Vinyl LP",
+    "tokens": [
+      {
+        "word": "Eddie",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "&",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "The",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Hot",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Rods",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Teenage",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Depression",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "ILPS",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "9457",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1977",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Billy Gibbons - Hardware, 1 LP, Best Buy Custard Vinyl, Sealed",
+    "tokens": [
+      {
+        "word": "Billy",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Gibbons",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Hardware,",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "1",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP,",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Best",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Buy",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Custard",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl,",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Sealed",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "RARE JUMP BLUES Bill Samuels I Cover the Waterfront Mercury 70205 1952 NM",
+    "tokens": [
+      {
+        "word": "RARE",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "JUMP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "BLUES",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Bill",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Samuels",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "I",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Cover",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "the",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Waterfront",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Mercury",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "70205",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "1952",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "NM",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "DEEP PURPLE WHEN WE ROCK, W WARNER BROS. PRK3223 US VINYL LP",
+    "tokens": [
+      {
+        "word": "DEEP",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "PURPLE",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "WHEN",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "WE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "ROCK,",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "W",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "WARNER",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "BROS.",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "PRK3223",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "US",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Million Dollar Memories Vinyl LPs Various Artists",
+    "tokens": [
+      {
+        "word": "Million",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Dollar",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Memories",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LPs",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Various",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Artists",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Captain And Tennille Make Your Move LP Vinyl Record Album Casablanca Play Tested",
+    "tokens": [
+      {
+        "word": "Captain",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "And",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Tennille",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Make",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Your",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Move",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Record",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Album",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Casablanca",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Play",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Tested",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "FAIRPORT CONVENTION 9 ISLAND ICL56 Japan INSERT VINYL LP",
+    "tokens": [
+      {
+        "word": "FAIRPORT",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "CONVENTION",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "9",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "ISLAND",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "ICL56",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "INSERT",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "JOE COCKER LUXURY YOU CAN AFFORD ASYLUM P10549Y Japan OBI INSERT VINYL LP",
+    "tokens": [
+      {
+        "word": "JOE",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "COCKER",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "LUXURY",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "YOU",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "CAN",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "AFFORD",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "ASYLUM",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "P10549Y",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "INSERT",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "JIMI HENDRIX EXPERIENCE AXIS BOLD AS LOVE POLYDOR MPF1076 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "JIMI",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "HENDRIX",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "EXPERIENCE",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "AXIS",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "BOLD",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "AS",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "LOVE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "POLYDOR",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "MPF1076",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "ASIA ASTRA GEFFEN 28AP3120 Japan CAP OBI INSERT HYPE-STICKER SHRINK VINYL LP",
+    "tokens": [
+      {
+        "word": "ASIA",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "ASTRA",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "GEFFEN",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "28AP3120",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "CAP",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "INSERT",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "HYPE-STICKER",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "SHRINK",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "SEALS & CROFTS SUMMER BREEZE WARNER BROS. P8275W Japan INSERT VINYL LP",
+    "tokens": [
+      {
+        "word": "SEALS",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "&",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "CROFTS",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "SUMMER",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "BREEZE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "WARNER",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "BROS.",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "P8275W",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "INSERT",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "VA BATTALION / THE RETURN OF THE LIVING DEAD VICTOR VIL28015 Japan LP",
+    "tokens": [
+      {
+        "word": "VA",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "BATTALION",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "/",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "THE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "RETURN",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "OF",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "THE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "LIVING",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "DEAD",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "VICTOR",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VIL28015",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "BILLY JOEL GREATEST HITS VOLUME I & VOLUME II CBS/SONY 40AP3060 Japan VINYL 2LP",
+    "tokens": [
+      {
+        "word": "BILLY",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "JOEL",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "GREATEST",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "HITS",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "VOLUME",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "I",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "&",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "VOLUME",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "II",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "CBS/SONY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "40AP3060",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "2LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "U2 BOY ISLAND 20S77 Japan INSERT VINYL LP",
+    "tokens": [
+      {
+        "word": "U2",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "BOY",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "ISLAND",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "20S77",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "INSERT",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "IAIN MATTHEWS SIAMESE FRIENDS ROCKBURGH VIP6689 Japan OBI INSERT VINYL LP",
+    "tokens": [
+      {
+        "word": "IAIN",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "MATTHEWS",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "SIAMESE",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "FRIENDS",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "ROCKBURGH",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VIP6689",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "INSERT",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "NEIL YOUNG S/T REPRISE P8121R Japan OBI INSERT VINYL LP",
+    "tokens": [
+      {
+        "word": "NEIL",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "YOUNG",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "S/T",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "REPRISE",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "P8121R",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "INSERT",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "TANGERINE DREAM TANGRAM VIRGIN VIP6957 Japan OBI INSERT VINYL LP",
+    "tokens": [
+      {
+        "word": "TANGERINE",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "DREAM",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "TANGRAM",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "VIRGIN",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VIP6957",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "INSERT",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "CAROLE KING SIMPLE THINGS CAPITOL ECS80875 Japan OBI VINYL LP",
+    "tokens": [
+      {
+        "word": "CAROLE",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "KING",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "SIMPLE",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "THINGS",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "CAPITOL",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "ECS80875",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "KISS ALIVE CASABLANCA SJET9569 Japan VINYL 2LP",
+    "tokens": [
+      {
+        "word": "KISS",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "ALIVE",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CASABLANCA",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "SJET9569",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "2LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "DEEP PURPLE MACHINE HEAD WARNER BROS. P10130W Japan OBI VINYL LP",
+    "tokens": [
+      {
+        "word": "DEEP",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "PURPLE",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "MACHINE",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "HEAD",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "WARNER",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "BROS.",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "P10130W",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "BEATLES MEET APPLE EAS70100 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "BEATLES",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "MEET",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "APPLE",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "EAS70100",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "BEATLES A HARD DAY'S NIGHT APPLE EAS80552 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "BEATLES",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "A",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "HARD",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "DAY'S",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "NIGHT",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "APPLE",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "EAS80552",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "QUEEN A DAY AT THE RACES ELEKTRA P10300E Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "QUEEN",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "A",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "DAY",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "AT",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "THE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "RACES",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "ELEKTRA",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "P10300E",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "HANK WILLIAMS ON STAGE MGM SL5060 Japan INSERT FLIP BACK VINYL LP",
+    "tokens": [
+      {
+        "word": "HANK",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "WILLIAMS",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "ON",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "STAGE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "MGM",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "SL5060",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "INSERT",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "FLIP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "BACK",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "BEATLES SGT. PEPPER'S LONELY HEARTS CLUB BAND APPLE EAS80558 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "BEATLES",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "SGT.",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "PEPPER'S",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "LONELY",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "HEARTS",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "CLUB",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "BAND",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "APPLE",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "EAS80558",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "FAR CORPORATION DIVISION ONE IMP RPL8336 Japan OBI INSERT VINYL LP",
+    "tokens": [
+      {
+        "word": "FAR",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "CORPORATION",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "DIVISION",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "ONE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "IMP",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "RPL8336",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "INSERT",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "BEATLES SECOND ALBUM APPLE EAS80563 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "BEATLES",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "SECOND",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "ALBUM",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "APPLE",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "EAS80563",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "PAUL MCCARTNEY TAKE IT AWAY CAPITOL EPS10004 Japan OBI INSERT VINYL LP",
+    "tokens": [
+      {
+        "word": "PAUL",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "MCCARTNEY",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "TAKE",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "IT",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "AWAY",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "CAPITOL",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "EPS10004",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "INSERT",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Various \"Motown Winners' Circle: Number 1 Hits Vol. 5\" VINYL LP - 1970",
+    "tokens": [
+      {
+        "word": "Various",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "\"Motown",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Winners'",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Circle:",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Number",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "1",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Hits",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Vol.",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "5\"",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1970",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Hydra – Land Of Money - US PROMO ONLY LP 1975 - CP 0157",
+    "tokens": [
+      {
+        "word": "Hydra",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "–",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Land",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Of",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Money",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "US",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "PROMO",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "ONLY",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1975",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "CP",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "0157",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Neo-Plant Ryuichi Sakamoto Koharu Kisaragi Japan OBI VINYL LP",
+    "tokens": [
+      {
+        "word": "Neo-Plant",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Ryuichi",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Sakamoto",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Koharu",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Kisaragi",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "VA THE BEST OF BEL RELIC 5028 US LP",
+    "tokens": [
+      {
+        "word": "VA",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "THE",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "BEST",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "OF",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "BEL",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "RELIC",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "5028",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "US",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "IYO MATSUMOTO SENTIMENTAL I・Y VICTOR SJX30128 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "IYO",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "MATSUMOTO",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "SENTIMENTAL",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "I・Y",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "VICTOR",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "SJX30128",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "VA STRAWBERRY WHIT REPRISE P50012R Japan 2LP",
+    "tokens": [
+      {
+        "word": "VA",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "STRAWBERRY",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "WHIT",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "REPRISE",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "P50012R",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "2LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "COVER GIRLS SHOW ME VICTOR VIL28094 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "COVER",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "GIRLS",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "SHOW",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "ME",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "VICTOR",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VIL28094",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "AHMAD JAMAL EMERALD CITY NIGHTS 2-LP NUMBERED 1170 of 5,000 FACTORY SEALED 180 G",
+    "tokens": [
+      {
+        "word": "AHMAD",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "JAMAL",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "EMERALD",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CITY",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "NIGHTS",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "2-LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "NUMBERED",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "1170",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "of",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "5,000",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "FACTORY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "SEALED",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "180",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "G",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Ken Hyder's Talisker – Land Of Stone - GERMAN IMPORT LP 1977 - CONTEMPORARY JAZZ",
+    "tokens": [
+      {
+        "word": "Ken",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Hyder's",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Talisker",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "–",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Land",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Of",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Stone",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "GERMAN",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "IMPORT",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1977",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "CONTEMPORARY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "JAZZ",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "LEMON DROPS CRYSTAL PURE CICADELIC CICLP984 US LP",
+    "tokens": [
+      {
+        "word": "LEMON",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "DROPS",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "CRYSTAL",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "PURE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "CICADELIC",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "CICLP984",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "US",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "TAKUJI KOYAMA PASSING CBS/SONY 28AH1882 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "TAKUJI",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "KOYAMA",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "PASSING",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CBS/SONY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "28AH1882",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "DAVE DAVE EPIC ECPO93 Japan LP",
+    "tokens": [
+      {
+        "word": "DAVE",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "DAVE",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "EPIC",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "ECPO93",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Bob Dylan Street Legal Vinyl Record LP 1976 Columbia Records",
+    "tokens": [
+      {
+        "word": "Bob",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Dylan",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Street",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Legal",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Record",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1976",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Columbia",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Records",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "HARDERS BIZARRE FEELIN' GROOVY 1967 LP VINYL ALBUM",
+    "tokens": [
+      {
+        "word": "HARDERS",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "BIZARRE",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "FEELIN'",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "GROOVY",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "1967",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "ALBUM",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "DAVE MASON OLD CREST ON A NEW WAVE COLUMBIA JC36144 US VINYL LP",
+    "tokens": [
+      {
+        "word": "DAVE",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "MASON",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "OLD",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CREST",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "ON",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "A",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "NEW",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "WAVE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "COLUMBIA",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "JC36144",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "US",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "WALTER EGAN FUNDAMENTAL ROLL UNITED ARTISTS GP545 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "WALTER",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "EGAN",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "FUNDAMENTAL",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "ROLL",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "UNITED",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "ARTISTS",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "GP545",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Various \"Motown Winners' Circle: Number 1 Hits Vol. 5\" VINYL LP - 1970",
+    "tokens": [
+      {
+        "word": "Various",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "\"Motown",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Winners'",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Circle:",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Number",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "1",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Hits",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Vol.",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "5\"",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1970",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Hydra – Land Of Money - US PROMO ONLY LP 1975 - CP 0157",
+    "tokens": [
+      {
+        "word": "Hydra",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "–",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Land",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Of",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Money",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "US",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "PROMO",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "ONLY",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1975",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "CP",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "0157",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Neo-Plant Ryuichi Sakamoto Koharu Kisaragi Japan OBI VINYL LP",
+    "tokens": [
+      {
+        "word": "Neo-Plant",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Ryuichi",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Sakamoto",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Koharu",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Kisaragi",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "VA THE BEST OF BEL RELIC 5028 US LP",
+    "tokens": [
+      {
+        "word": "VA",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "THE",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "BEST",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "OF",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "BEL",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "RELIC",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "5028",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "US",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "IYO MATSUMOTO SENTIMENTAL I・Y VICTOR SJX30128 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "IYO",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "MATSUMOTO",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "SENTIMENTAL",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "I・Y",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "VICTOR",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "SJX30128",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "VA STRAWBERRY WHIT REPRISE P50012R Japan 2LP",
+    "tokens": [
+      {
+        "word": "VA",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "STRAWBERRY",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "WHIT",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "REPRISE",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "P50012R",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "2LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "COVER GIRLS SHOW ME VICTOR VIL28094 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "COVER",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "GIRLS",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "SHOW",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "ME",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "VICTOR",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VIL28094",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "AHMAD JAMAL EMERALD CITY NIGHTS 2-LP NUMBERED 1170 of 5,000 FACTORY SEALED 180 G",
+    "tokens": [
+      {
+        "word": "AHMAD",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "JAMAL",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "EMERALD",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CITY",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "NIGHTS",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "2-LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "NUMBERED",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "1170",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "of",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "5,000",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "FACTORY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "SEALED",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "180",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "G",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Ken Hyder's Talisker – Land Of Stone - GERMAN IMPORT LP 1977 - CONTEMPORARY JAZZ",
+    "tokens": [
+      {
+        "word": "Ken",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Hyder's",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Talisker",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "–",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Land",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Of",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Stone",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "GERMAN",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "IMPORT",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1977",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "CONTEMPORARY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "JAZZ",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "LEMON DROPS CRYSTAL PURE CICADELIC CICLP984 US LP",
+    "tokens": [
+      {
+        "word": "LEMON",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "DROPS",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "CRYSTAL",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "PURE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "CICADELIC",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "CICLP984",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "US",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "TAKUJI KOYAMA PASSING CBS/SONY 28AH1882 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "TAKUJI",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "KOYAMA",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "PASSING",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CBS/SONY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "28AH1882",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "DAVE DAVE EPIC ECPO93 Japan LP",
+    "tokens": [
+      {
+        "word": "DAVE",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "DAVE",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "EPIC",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "ECPO93",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Bob Dylan Street Legal Vinyl Record LP 1976 Columbia Records",
+    "tokens": [
+      {
+        "word": "Bob",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Dylan",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Street",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Legal",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Record",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1976",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Columbia",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Records",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "HARDERS BIZARRE FEELIN' GROOVY 1967 LP VINYL ALBUM",
+    "tokens": [
+      {
+        "word": "HARDERS",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "BIZARRE",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "FEELIN'",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "GROOVY",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "1967",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "ALBUM",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "DAVE MASON OLD CREST ON A NEW WAVE COLUMBIA JC36144 US VINYL LP",
+    "tokens": [
+      {
+        "word": "DAVE",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "MASON",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "OLD",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CREST",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "ON",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "A",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "NEW",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "WAVE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "COLUMBIA",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "JC36144",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "US",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "WALTER EGAN FUNDAMENTAL ROLL UNITED ARTISTS GP545 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "WALTER",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "EGAN",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "FUNDAMENTAL",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "ROLL",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "UNITED",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "ARTISTS",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "GP545",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "JULIAN LENNON VALOTTE CHARISMA 28VB1002 Japan OBI VINYL LP",
+    "tokens": [
+      {
+        "word": "JULIAN",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "LENNON",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "VALOTTE",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CHARISMA",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "28VB1002",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "BILLY JOEL 52ND STREET CBS/SONY 25AP1152 Japan OBI VINYL LP",
+    "tokens": [
+      {
+        "word": "BILLY",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "JOEL",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "52ND",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "STREET",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "CBS/SONY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "25AP1152",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "BREAD S/T ELEKTRA P5110E Japan VINYL 2LP",
+    "tokens": [
+      {
+        "word": "BREAD",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "S/T",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "ELEKTRA",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "P5110E",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "2LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "ROD STEWART BLONDES HAVE MORE FUN WARNER BROS. P10602W Japan OBI VINYL LP",
+    "tokens": [
+      {
+        "word": "ROD",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "STEWART",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "BLONDES",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "HAVE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "MORE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "FUN",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "WARNER",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "BROS.",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "P10602W",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "DEEP PURPLE WHO DO WE THINK WE ARE WARNER BROS. P8312W Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "DEEP",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "PURPLE",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "WHO",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "DO",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "WE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "THINK",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "WE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "ARE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "WARNER",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "BROS.",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "P8312W",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "SANTANA FESTIVAL CBS/SONY 25AP333 Japan OBI VINYL LP",
+    "tokens": [
+      {
+        "word": "SANTANA",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "FESTIVAL",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CBS/SONY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "25AP333",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "MARC TANNER BAND NO ESCAPE ELEKTRA P10664E Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "MARC",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "TANNER",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "BAND",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "NO",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "ESCAPE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "ELEKTRA",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "P10664E",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "ROD STEWART ATLANTIC CROSSING WARNER BROS. P6547W Japan OBI VINYL LP",
+    "tokens": [
+      {
+        "word": "ROD",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "STEWART",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "ATLANTIC",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CROSSING",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "WARNER",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "BROS.",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "P6547W",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "JOAN BAEZ 1 VANGUARD AVRS519113 France VINYL LP",
+    "tokens": [
+      {
+        "word": "JOAN",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "BAEZ",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "1",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "VANGUARD",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "AVRS519113",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "France",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "TOTO IV CBS/SONY 20AP2280 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "TOTO",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "IV",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CBS/SONY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "20AP2280",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "JOURNEY FRONTIERS CBS/SONY 25AP2500 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "JOURNEY",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "FRONTIERS",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CBS/SONY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "25AP2500",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "JOHN DENVER WINDSONG RCA RVP6001 Japan OBI VINYL LP",
+    "tokens": [
+      {
+        "word": "JOHN",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "DENVER",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "WINDSONG",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "RCA",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "RVP6001",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "SANTANA MOONFLOWER CBS/SONY 40AP787 Japan OBI VINYL 2LP",
+    "tokens": [
+      {
+        "word": "SANTANA",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "MOONFLOWER",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CBS/SONY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "40AP787",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "2LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "GUESS WHO BEST OF RCA SX105 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "GUESS",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "WHO",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "BEST",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "OF",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "RCA",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "SX105",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "ROD STEWART BLONDES HAVE MORE FUN WARNER BROS. P10602W Japan OBI VINYL LP",
+    "tokens": [
+      {
+        "word": "ROD",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "STEWART",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "BLONDES",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "HAVE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "MORE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "FUN",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "WARNER",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "BROS.",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "P10602W",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "BEACH BOYS S/T CBS/SONY 28AP3046 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "BEACH",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "BOYS",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "S/T",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "CBS/SONY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "28AP3046",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "VENTURES GO WITH THE LIBERTY LP7562 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "VENTURES",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "GO",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "WITH",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "THE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "LIBERTY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP7562",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "STYX PARADISE THEATRE A&M AMP28022 Japan OBI VINYL LP",
+    "tokens": [
+      {
+        "word": "STYX",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "PARADISE",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "THEATRE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "A&M",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "AMP28022",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "SIMON AND GARFUNKEL ALL ABOUT CBS/SONY SONP50416 Japan VINYL 2LP",
+    "tokens": [
+      {
+        "word": "SIMON",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "AND",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "GARFUNKEL",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "ALL",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "ABOUT",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "CBS/SONY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "SONP50416",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "2LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "VA STEREO = SANREM SEVEN SEAS SH168 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "VA",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "STEREO",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "=",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "SANREM",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "SEVEN",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "SEAS",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "SH168",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "HARRY BELAFONTE CARNEGIE HALL C VICTOR SHP5084 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "HARRY",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "BELAFONTE",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "CARNEGIE",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "HALL",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "C",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VICTOR",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "SHP5084",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "VA GOLD DISC CBS/SONY 26AP1314 Japan VINYL LP",
+    "tokens": [
+      {
+        "word": "VA",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "GOLD",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "DISC",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "CBS/SONY",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "26AP1314",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "BOB JAMES SIGN OF THE TIMES AUTOGRAPHED BY BOB JAMES, LEONARD \"DOC\" GIBBS + 2 M-",
+    "tokens": [
+      {
+        "word": "BOB",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "JAMES",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "SIGN",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "OF",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "THE",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "TIMES",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "AUTOGRAPHED",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "BY",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "BOB",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "JAMES,",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "LEONARD",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "\"DOC\"",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "GIBBS",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "+",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "2",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "M-",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Hunters & Collectors – Ghost Nation - EU IMPORT LP + OIS - 7567-82096-1 INDIE",
+    "tokens": [
+      {
+        "word": "Hunters",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "&",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Collectors",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "–",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Ghost",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Nation",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "EU",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "IMPORT",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "+",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OIS",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "7567-82096-1",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "INDIE",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "CHRISTOPHER CROSS S/T WARNER BROS. P10805W Japan OBI VINYL LP",
+    "tokens": [
+      {
+        "word": "CHRISTOPHER",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "CROSS",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "S/T",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "WARNER",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "BROS.",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "P10805W",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Japan",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "OBI",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "VINYL",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  }
+]

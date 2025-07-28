@@ -1,0 +1,18 @@
+<table class="w-full border-collapse mt-5 text-xs">
+    <thead><!-- Similar to listings.html, omit score --></thead>
+    <tbody>
+        {% for listing in listings %}
+        <tr>
+            <td>{{ listing.id }}</td>
+            <td>{{ listing.record.artist }}</td>
+            <td>{{ listing.record.title }}</td>
+            <!-- Add other fields from Record/Listing except score -->
+            <td>
+                <input type="checkbox" name="keepers" value="{{ listing.id }}" class="hidden">
+                <button type="button" onclick="this.classList.toggle('bg-green-500'); this.classList.toggle('bg-red-500');" class="bg-red-500 text-white px-2 py-1">Loser (Toggle to Keeper)</button>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<input type="hidden" name="listing_ids" value="{% for l in listings %}{{ l.id }},{% endfor %}">

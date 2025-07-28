@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  django-htmx:
+    build: ./django-htmx
+    ports:
+      - "8001:8000"
+    volumes:
+      - ./django-htmx:/app
+      - django-htmx-db:/app/db
+    environment:
+      - DEBUG=1
+      - SECRET_KEY=your-secret-key-here
+    depends_on:
+      - postgres
+
+  react-go:
+    build: ./react-go
+    ports:
+      - "3000:3000"  # React frontend
+      - "8080:8080"  # Go backend
+      - "5001:5000"  # Python services
+    volumes:
+      - ./react-go:/app
+    environment:
+      - NODE_ENV=production
+      - GO_ENV=production
+
+  postgres:
+    image: postgres:15
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=records
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+
+volumes:
+  django-htmx-db:
+  postgres-data:

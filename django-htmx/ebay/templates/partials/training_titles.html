@@ -1,0 +1,81 @@
+<div id="listings-container" class="font-mono text-sm">
+  <!-- Fixed buttons at top -->
+  <div style="position: fixed; top: 0; left: 0; right: 0; background-color: rgb(17 24 39); padding: 12px; z-index: 1000; border-bottom: 1px solid rgb(55 65 81);">
+    {% if records %}
+      <div class="mb-2 text-gray-300 text-sm">
+        Current: Record {{ record_index|add:1 }} / {{ records|length }}{% if current_record %}, 
+        Token {{ token_index|add:1 }} / {{ current_record.tokens|length }}{% endif %}
+      </div>
+    {% endif %}
+    
+    <div class="flex flex-wrap gap-3">
+      {% for label in labels %}
+        <form method="post" class="inline-block"
+              hx-post="{% url 'annotate' %}"
+              hx-target="#listings-container"
+              hx-swap="outerHTML">
+          {% csrf_token %}
+          <input type="hidden" name="record_index" value="{{ record_index }}">
+          <input type="hidden" name="token_index" value="{{ token_index }}">
+          <button type="submit" name="label" value="{{ label }}"
+                  class="px-4 py-2 bg-stone-700 hover:bg-amber-900 text-amber-100 border border-stone-600 rounded shadow-md transition-all duration-200 whitespace-nowrap font-mono text-sm hover:shadow-lg">
+            {{ label }}
+          </button>
+        </form>
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- Content with top padding -->
+  <div style="padding-top: 120px;">
+    {% if records %}
+      <!-- Export button -->
+      <div class="mb-4">
+        <form method="post" action="{% url 'export-annotations' %}" class="inline-block">
+          {% csrf_token %}
+          <button type="submit" class="px-4 py-2 bg-green-700 hover:bg-green-600 text-green-100 border border-green-600 rounded shadow-md transition-all duration-200 font-mono text-sm">
+            📥 Export Annotations
+          </button>
+        </form>
+      </div>
+    {% endif %}
+
+    <div class="overflow-x-auto">
+      <table class="w-full border-collapse text-xs">
+        <thead>
+          <tr>
+            <th class="p-1 text-left bg-gray-800 text-white font-bold border-b border-gray-700">Index</th>
+            <th class="p-1 text-left bg-gray-800 text-white font-bold border-b border-gray-700">Title</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for record in records %}
+            <tr class="hover:bg-gray-900 transition-colors {% if forloop.counter0 == record_index %}bg-gray-900{% endif %}">
+              <td class="p-1 text-gray-400 border-b border-gray-700 align-top">{{ forloop.counter }}</td>
+              <td class="p-1 text-gray-200 border-b border-gray-700 whitespace-normal">
+                {% for token in record.tokens %}
+                  {% if forloop.parentloop.counter0 == record_index and forloop.counter0 == token_index %}
+                    <!-- Current token being highlighted -->
+                    <span class="px-2 py-1 mx-1 text-white font-bold bg-blue-600 border border-blue-300 rounded animate-pulse">
+                      {{ token.word }}
+                    </span>
+                  {% elif token.label %}
+                    <!-- Labeled token with color coding -->
+                    <span class="px-2 py-1 mx-1 {{ token.color_class }} rounded" title="{{ token.label }}">
+                      {{ token.word }}
+                    </span>
+                  {% else %}
+                    <!-- Unlabeled token -->
+                    <span class="px-2 py-1 mx-1 text-gray-300 bg-gray-700 border border-gray-600 rounded">
+                      {{ token.word }}
+                    </span>
+                  {% endif %}
+                {% endfor %}
+              </td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

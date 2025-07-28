@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Model Stats{% endblock %}
+{% block content %}
+<h1>Model Performance</h1>
+<p>Overall Accuracy: {{ overall_accuracy|floatformat:2 }}%</p>
+<table>
+    {% for metric in metrics %}
+    <tr><td>{{ metric.session_date }}: Accuracy {{ metric.accuracy }}, Precision {{ metric.precision }}</td></tr>
+    {% endfor %}
+</table>
+{% endblock %}

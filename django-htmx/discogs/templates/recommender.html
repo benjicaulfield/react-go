@@ -1,0 +1,14 @@
+{% extends "base.html" %}  <!-- Adjust if no base.html -->
+{% block title %}Recommender{% endblock %}
+{% block content %}
+<div class="max-w-7xl mx-auto p-5">
+    <h1 class="text-3xl text-white mb-5">Record Recommender</h1>
+    <form id="recommender-form" hx-post="{% url 'submit_recommendations' %}" hx-target="#listings-container" hx-swap="innerHTML">
+        <div id="listings-container" hx-get="{% url 'recommendation_predictions' %}" hx-trigger="load" hx-vars="listing_ids: [{% for l in listings %}{{ l.id }}{% if not forloop.last %},{% endif %}{% endfor %}]">
+            {% include "partials/recommender_listings.html" %}
+        </div>
+        <button type="submit" class="bg-blue-500 text-white px-4 py-2 mt-4">Submit Selections</button>
+    </form>
+    <a href="{% url 'model_performance_stats' %}" class="text-blue-500">View Model Stats</a>
+</div>
+{% endblock %}

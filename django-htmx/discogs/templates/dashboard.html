@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard - LongPlaying{% endblock %}
+
+{% block content %}
+<div class="max-w-7xl mx-auto p-5">
+    <h1 class="text-3xl text-white-500 mb-5">Dashboard</h1>
+
+    <!-- Metrics Section -->
+    <div class="flex justify-between gap-4 mb-8">
+        <div class="metric-card">
+            <h3 class="font-bold">Placeholder Metric 1</h3>
+            <p>Coming soon...</p>
+        </div>
+        <div class="metric-card">
+            <h3 class="font-bold">Placeholder Metric 2</h3>
+            <p>Coming soon...</p>
+        </div>
+        <div class="metric-card">
+            <h3 class="font-bold">Placeholder Metric 3</h3>
+            <p>Coming soon...</p>
+        </div>
+    </div>
+
+    <!-- Listings Section -->
+    <div id="listings-container"
+         hx-get="{% url 'dashboard_listings' %}"
+         hx-trigger="load"
+         hx-indicator="#loading">
+        <div id="loading" class="htmx-indicator">
+            Loading...
+        </div>
+    </div>
+</div>
+{% endblock %}

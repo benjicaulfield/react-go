@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block title %}Benjamin Caulfield{% endblock %}
+
+{% block content %}
+<div class="home-container">
+    <!-- Header with name and links -->
+    <header class="fixed w-full px-5 py-3 bg-white text-black flex justify-between items-center z-50">
+        <div>
+            <span>Benjamin Caulfield</span>
+        </div>
+        <div class="space-x-3">
+            <a href="{% url 'dashboard' %}" class="hover:underline">Dashboard</a> |
+            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" class="hover:underline">GitHub</a> |
+            <a href="https://linkedin.com/in/benjicaulfield" target="_blank" rel="noopener noreferrer" class="hover:underline">LinkedIn</a> |
+            <a href="mailto:your.email@example.com" class="hover:underline">Gmail</a> |
+            <a href="https://bsky.app/profile/benjicaulfield" target="_blank" rel="noopener noreferrer" class="hover:underline">Bluesky</a>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto pt-16 px-5 font-mono text-gray-200">
+        <p class="mb-2">Honest to g o d imposter</p>
+        <p class="mb-2">BS in CS from NEIU, slowly working towards a Master's in the same</p>
+        <p class="mb-2">Focusing on cloud computing, machine learning, NLP, CI/CD</p>
+        <p class="mb-2">Python, JavaScript, TypeScript, some Swift, a little Scala</p>
+        <p class="mb-2">Django, React, Docker, PostgreSQL, the ML libraries</p>
+        <p class="mb-2">I like writing tests. And, cleaning data. Oh, and building APIs.</p>
+        <p class="mb-2">Mostly I like collecting long-playing vinyl records.</p>
+        <p class="mb-4">Record collecting app is built on Django, React in TypeScript, with web scrapers and browser automation tools, 
+            a personalized recommendation engine using collaborative filtering and graph clustering, an LLM-powered search engine,
+            API integration with Discogs, Ebay, and Spotify, deployed on AWS, Dockerized, and CI/CD pipelines in Jenkins.</p>
+        <p class="mb-2">Take a peek here: <a href="{% url 'dashboard' %}" class="text-blue-500 hover:underline">record monster</a></p>
+        <p class="mb-6"></p>
+        <p class="mb-4">ASK ME ANYTHING</p>
+        <div class="cursor">{">"}_</div>
+    </main>
+</div>
+{% endblock %}

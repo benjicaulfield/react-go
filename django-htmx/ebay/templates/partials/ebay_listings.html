@@ -1,0 +1,20 @@
+<div class="overflow-x-auto">
+    <table class="w-full border-collapse mt-5 text-xs">
+        <thead>
+            <tr>
+                <th class="p-1 text-left bg-gray-800 text-white font-bold border-b border-gray-700">Title</th>
+                <th class="p-1 text-left bg-gray-800 text-white font-bold border-b border-gray-700">Price</th>
+                <th class="p-1 text-left bg-gray-800 text-white font-bold border-b border-gray-700">Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for listing in listings %}
+            <tr class="hover:bg-gray-900 transition-colors">
+                <td class="p-1 text-gray-200 border-b border-gray-700">{{ listing.title }}</td>
+                <td class="p-1 text-gray-200 border-b border-gray-700">{{ listing.price }}</td>
+                <td class="p-1 text-gray-200 border-b border-gray-700">{{ listing.date }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>

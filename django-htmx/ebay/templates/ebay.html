@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block title %} ebay title training {% endblock %}
+
+{% block content %}
+<div class="max-w-7xl mx-auto p-5">
+    <div id="listings-container"
+         hx-get="{% url 'training-title-list' %}"
+         hx-trigger="load"
+         hx-indicator="#loading">
+        <div id="loading" class="htmx-indicator">
+            Loading...
+        </div>
+    </div>
+</div>
+{% endblock %}

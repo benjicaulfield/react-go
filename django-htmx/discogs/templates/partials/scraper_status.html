@@ -1,0 +1,13 @@
+{% if status %}
+  <p class="text-gray-600">Scraper Status: {{ status }}</p>
+  {% if status != 'completed' %}
+    <div hx-get="{% url 'scraper-status' %}?seller={{ seller_name }}"
+      hx-trigger="every 10s"
+      hx-target="#status-area">
+    </div>
+    <div hx-get="{% url 'by-seller' %}?seller_name={{ seller_name }}"
+      hx-trigger="every 10s"
+      hx-target="#results-area">
+    </div>
+  {% endif %}
+{% endif %}

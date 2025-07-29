@@ -1,0 +1,1177 @@
+[
+  {
+    "title": "BRIAN ENO-DAVID BYRNE My Life In The Bush Of Ghosts 1981 SIRE LP VG/EX",
+    "tokens": [
+      {
+        "word": "BRIAN",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "ENO-DAVID",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "BYRNE",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "My",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Life",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "In",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "The",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Bush",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Of",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Ghosts",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "1981",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "SIRE",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "VG/EX",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "MOURN -s/t FIRST PRESS CLEAR DLP 2007 LIM 100 DIE HARD doom stoner",
+    "tokens": [
+      {
+        "word": "MOURN",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "-s/t",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "FIRST",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "PRESS",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "CLEAR",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "DLP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "2007",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "LIM",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "100",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "DIE",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "HARD",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "doom",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "stoner",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Brian Tyler - Scream: Music from the Motion Picture, Sealed",
+    "tokens": [
+      {
+        "word": "Brian",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Tyler",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Scream:",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Music",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "from",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "the",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Motion",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Picture,",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Sealed",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Motorhead - What's Words Worth? - 1979 Vinyl LP - Mot\u00f6rhead Live 1978",
+    "tokens": [
+      {
+        "word": "Motorhead",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "What's",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Words",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Worth?",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1979",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Mot\u00f6rhead",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Live",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1978",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "BUDDY SPICHER Yesterday And Today 1977 Direct Disk AUDIOPHILE Vinyl BLUEGRASS EX",
+    "tokens": [
+      {
+        "word": "BUDDY",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "SPICHER",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Yesterday",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "And",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Today",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "1977",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Direct",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Disk",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "AUDIOPHILE",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "BLUEGRASS",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "EX",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Motorhead - On Parole - 1979 Vinyl LP - LN 10340 - Mot\u00f6rhead",
+    "tokens": [
+      {
+        "word": "Motorhead",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "On",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Parole",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1979",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LN",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "10340",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Mot\u00f6rhead",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Quincy Jones - Body Heat, 1 LP, 180G, Reissue, Sealed",
+    "tokens": [
+      {
+        "word": "Quincy",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Jones",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Body",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Heat,",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "1",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP,",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "180G,",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Reissue,",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Sealed",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "BLUES Sugar Chile Robinson Whop Whop / Hum Drum Boogie Capitol F2197 1952 NM",
+    "tokens": [
+      {
+        "word": "BLUES",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Sugar",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Chile",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Robinson",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Whop",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Whop",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "/",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Hum",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Drum",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Boogie",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Capitol",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "F2197",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "1952",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "NM",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Beatles\u2019 Story LP 1970 Apple UNDOCUMENTED 3 Sides with \u201cMfd. By Apple, Inc.\u201d EX!",
+    "tokens": [
+      {
+        "word": "Beatles\u2019",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Story",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1970",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Apple",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "UNDOCUMENTED",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "3",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "Sides",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "with",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "\u201cMfd.",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "By",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "Apple,",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "Inc.\u201d",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "EX!",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Near Mint in SHRINK! Sparks \u2013 Kimono My House - 1974 Island Records \u2013 ILPS 9272 ",
+    "tokens": [
+      {
+        "word": "Near",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Mint",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "in",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "SHRINK!",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Sparks",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "\u2013",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Kimono",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "My",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "House",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1974",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Island",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Records",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "\u2013",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "ILPS",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "9272",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Rezillos - Mission Accomplished... But The Beat Goes On - 1979 Vinyl LP",
+    "tokens": [
+      {
+        "word": "Rezillos",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Mission",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Accomplished...",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "But",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "The",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Beat",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Goes",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "On",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1979",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "OPUS 3 7911 PEORIA JAZZBAND New Sides 1979 Audiophile LP Superb NMINT",
+    "tokens": [
+      {
+        "word": "OPUS",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "3",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "7911",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "PEORIA",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "JAZZBAND",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "New",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Sides",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1979",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Audiophile",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Superb",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "NMINT",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Black Eagle Jazz Band: Dreaming the Hours Away LP [Stomp Off  1984] SOS 1065 LP",
+    "tokens": [
+      {
+        "word": "Black",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Eagle",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Jazz",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Band:",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Dreaming",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "the",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Hours",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Away",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "[Stomp",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Off",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "1984]",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "SOS",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "1065",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "TIMECOP1983 - Reflections Double Vinyl LP (A) Synthwave Timeslave Recordings",
+    "tokens": [
+      {
+        "word": "TIMECOP1983",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Reflections",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Double",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "(A)",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Synthwave",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Timeslave",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Recordings",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Eddie & The Hot Rods - Teenage Depression - ILPS 9457 - 1977 Vinyl LP",
+    "tokens": [
+      {
+        "word": "Eddie",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "&",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "The",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Hot",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "Rods",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Teenage",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Depression",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "ILPS",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "9457",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "1977",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "Billy Gibbons - Hardware, 1 LP, Best Buy Custard Vinyl, Sealed",
+    "tokens": [
+      {
+        "word": "Billy",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Gibbons",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "-",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Hardware,",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "1",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "LP,",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Best",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Buy",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Custard",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Vinyl,",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Sealed",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  },
+  {
+    "title": "RARE JUMP BLUES Bill Samuels I Cover the Waterfront Mercury 70205 1952 NM",
+    "tokens": [
+      {
+        "word": "RARE",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "JUMP",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "BLUES",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      },
+      {
+        "word": "Bill",
+        "label": "B-ARTIST",
+        "color_class": "bg-red-500 border-red-300 text-white shadow-sm"
+      },
+      {
+        "word": "Samuels",
+        "label": "I-ARTIST",
+        "color_class": "bg-red-400 border-red-200 text-white shadow-sm"
+      },
+      {
+        "word": "I",
+        "label": "B-TITLE",
+        "color_class": "bg-emerald-500 border-emerald-300 text-white shadow-sm"
+      },
+      {
+        "word": "Cover",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "the",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Waterfront",
+        "label": "I-TITLE",
+        "color_class": "bg-emerald-400 border-emerald-200 text-white shadow-sm"
+      },
+      {
+        "word": "Mercury",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "70205",
+        "label": "I-META",
+        "color_class": "bg-purple-400 border-purple-200 text-white shadow-sm"
+      },
+      {
+        "word": "1952",
+        "label": "B-META",
+        "color_class": "bg-purple-500 border-purple-300 text-white shadow-sm"
+      },
+      {
+        "word": "NM",
+        "label": "O",
+        "color_class": "bg-slate-500 border-slate-300 text-white shadow-sm"
+      }
+    ]
+  }
+]

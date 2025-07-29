@@ -102,10 +102,10 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-annotations*.json
 *.db
 *.sqlite
 *.sqlite3
+*.pickle
 
 # Logs
 logs

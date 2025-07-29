@@ -1,10 +1,10 @@
 import pandas as pd
-from .search import Search
+from search import Search
 
 def get_listings():
     s = Search().search()
     df = pd.DataFrame(s['itemSummaries'])
-    df = df[['title', 'currentBidPrice', 'itemCreationDate']]
+    #df = df[['title', 'currentBidPrice', 'itemCreationDate']]
     return df
 
 def get_titles(df):
@@ -12,3 +12,4 @@ def get_titles(df):
 
 
 # need to parse dates
+print(get_listings().iloc[0])

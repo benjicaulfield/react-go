@@ -1,6 +1,6 @@
 import json
 import requests
-from .auth import EbayApi
+from auth import EbayApi
 
 class Search():
     def __init__(self):
